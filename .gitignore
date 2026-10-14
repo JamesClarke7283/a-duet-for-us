@@ -1,0 +1,12 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+
+# Local captures, exports and generated drafts
+/output/
+/.mcp.json
+/tools/godot-mcp.mjs
+/.env
+/.env.*
+__pycache__/
+*.pyc

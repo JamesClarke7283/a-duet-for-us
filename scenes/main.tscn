@@ -1,0 +1,10 @@
+[gd_scene format=3 uid="uid://casrdk07vhoki"]
+
+[ext_resource type="Script" uid="uid://b0n1m4lhjdbvh" path="res://scripts/main.gd" id="1_o5qli"]
+
+[node name="Duet" type="Control" unique_id=1869085059]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+script = ExtResource("1_o5qli")
